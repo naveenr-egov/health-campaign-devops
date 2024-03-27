@@ -11,7 +11,7 @@ public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCQqsG1qCPzOLwjoqLmE0f50ca
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
-db_name: "healthdemodbnaveen1"
+db_name: "healthdemodbnaveen2"
 
 # Replace with DB username you want
 # DB user name must contain only alphanumeric characters
@@ -21,6 +21,6 @@ db_username: "healthdemo"
 domain_name: "digit-naveen.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "naveen1-demo-health-digit-buckets"
+terraform_state_bucket_name: "naveen2-demo-health-digit-buckets"
 
 
